@@ -1,0 +1,1 @@
+The Homework exercises from Chapter 2 of "Starting Out With Python"
